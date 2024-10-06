@@ -1,0 +1,18 @@
+  - .gitignore
+- app
+    - main.py
+  - routes
+      - file_routes.py
+      - general_routes.py
+      - __init__.py
+  - services
+      - file_service.py
+      - __init__.py
+  - utils
+      - file_utils.py
+      - __init__.py
+    - __init__.py
+  - generate_folder_structure.py
+  - requirements.txt
+  - test_main.http
+- uploaded_files
